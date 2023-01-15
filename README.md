@@ -1,2 +1,1 @@
-# KUBERNETES-TP
-TP-KUBERNETES ( POD, DEPLOYMENT, SERVICE ETC...)
+# kubernetes-training
